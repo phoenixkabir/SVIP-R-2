@@ -1,0 +1,95 @@
+user,item,rating,timestamp,label,content,content_type,engagement
+1,101,4.0,1609459200,1,"Great movie about friendship","movie",5
+1,102,3.5,1609545600,1,"Interesting documentary on wildlife","documentary",4
+1,103,2.0,1609632000,0,"Boring talk show","talk_show",2
+2,101,5.0,1609718400,1,"Loved the movie","movie",5
+2,104,3.0,1609804800,0,"Average cooking show","cooking_show",3
+2,105,4.5,1609891200,1,"Excellent sci-fi series","series",5
+3,106,4.0,1609977600,1,"Inspiring biography","biography",5
+3,107,3.0,1610064000,1,"Good short film","short_film",4
+3,108,1.5,1610150400,0,"Not my type of comedy","comedy",2
+4,109,4.5,1610236800,1,"Amazing travel vlog","vlog",5
+4,110,3.5,1610323200,1,"Informative tech review","tech_review",4
+4,111,2.5,1610409600,0,"Average news segment","news",3
+5,112,5.0,1610496000,1,"Fantastic music video","music_video",5
+5,113,4.0,1610582400,1,"Great historical documentary","documentary",5
+5,114,3.5,1610668800,1,"Interesting science experiment","science",4
+6,115,4.0,1610755200,1,"Engaging mystery series","series",5
+6,116,3.0,1610841600,0,"Okay sports event","sports",3
+6,117,2.0,1610928000,0,"Not a fan of this reality show","reality_show",2
+7,118,4.5,1611014400,1,"Incredible nature film","nature",5
+7,119,3.5,1611100800,1,"Good political debate","debate",4
+7,120,2.5,1611187200,0,"Average game show","game_show",3
+8,121,4.0,1611273600,1,"In-depth interview","interview",5
+8,122,3.0,1611360000,0,"Okay educational video","education",3
+8,123,1.5,1611446400,0,"Terrible prank video","prank",1
+9,124,4.5,1611532800,1,"Fantastic documentary","documentary",5
+9,125,3.5,1611619200,1,"Good DIY tutorial","diy",4
+9,126,2.5,1611705600,0,"Boring cooking tutorial","cooking",2
+10,127,5.0,1611792000,1,"Amazing fitness routine","fitness",5
+10,128,4.0,1611878400,1,"Great travel documentary","documentary",5
+10,129,3.5,1611964800,1,"Interesting historical series","history",4
+10,130,4.0,1612051200,1,"Informative tech review","tech_review",5
+11,131,3.0,1612137600,0,"Okay biography","biography",3
+11,132,2.0,1612224000,0,"Not my type of music video","music_video",2
+11,133,1.5,1612310400,0,"Boring sports event","sports",1
+12,134,4.5,1612396800,1,"Fantastic comedy","comedy",5
+12,135,3.5,1612483200,1,"Good nature documentary","documentary",4
+12,136,2.5,1612569600,0,"Average reality show","reality_show",3
+13,137,5.0,1612656000,1,"Incredible science fiction movie","movie",5
+13,138,4.0,1612742400,1,"Great travel series","series",5
+13,139,3.5,1612828800,1,"Interesting political talk","talk_show",4
+14,140,4.0,1612915200,1,"Engaging mystery novel","novel",5
+14,141,3.0,1613001600,0,"Okay prank show","prank",3
+14,142,1.5,1613088000,0,"Terrible interview","interview",1
+15,143,4.5,1613174400,1,"Amazing short film","short_film",5
+15,144,3.5,1613260800,1,"Good tech talk","tech_talk",4
+15,145,2.5,1613347200,0,"Average sports highlight","sports",3
+15,146,4.0,1613433600,1,"Interesting biography","biography",5
+16,147,3.0,1613520000,0,"Okay news report","news",3
+16,148,2.0,1613606400,0,"Boring music documentary","music_documentary",2
+16,149,1.5,1613692800,0,"Terrible DIY video","diy",1
+17,150,4.5,1613779200,1,"Fantastic travel documentary","documentary",5
+17,151,3.5,1613865600,1,"Good fitness routine","fitness",4
+17,152,2.5,1613952000,0,"Average reality TV","reality_tv",3
+18,153,5.0,1614038400,1,"Incredible nature show","nature",5
+18,154,4.0,1614124800,1,"Great political documentary","documentary",5
+18,155,3.5,1614211200,1,"Interesting science series","science",4
+19,156,4.0,1614297600,1,"Engaging cooking show","cooking",5
+19,157,3.0,1614384000,0,"Okay game show","game_show",3
+19,158,1.5,1614470400,0,"Terrible talk show","talk_show",1
+20,159,4.5,1614556800,1,"Amazing comedy special","comedy",5
+20,160,3.5,1614643200,1,"Good educational documentary","documentary",4
+20,161,2.5,1614729600,0,"Average sports analysis","sports",3
+20,162,4.0,1614816000,1,"Interesting tech interview","tech_interview",5
+21,163,3.0,1614902400,0,"Okay biography","biography",3
+21,164,2.0,1614988800,0,"Not my type of vlog","vlog",2
+21,165,1.5,1615075200,0,"Boring prank show","prank",1
+22,166,4.5,1615161600,1,"Fantastic science fiction series","series",5
+22,167,3.5,1615248000,1,"Good travel vlog","vlog",4
+22,168,2.5,1615334400,0,"Average cooking tutorial","cooking",3
+23,169,5.0,1615420800,1,"Incredible nature documentary","documentary",5
+23,170,4.0,1615507200,1,"Great political series","series",5
+23,171,3.5,1615593600,1,"Interesting tech talk","tech_talk",4
+24,172,4.0,1615680000,1,"Engaging interview","interview",5
+24,173,3.0,1615766400,0,"Okay educational video","education",3
+24,174,1.5,1615852800,0,"Terrible sports show","sports",1
+25,175,4.5,1615939200,1,"Amazing biography","biography",5
+25,176,3.5,1616025600,1,"Good music video","music_video",4
+25,177,2.5,1616112000,0,"Average news segment","news",3
+26,178,4.0,1616198400,1,"Fantastic science documentary","documentary",5
+26,179,3.0,1616284800,0,"Okay reality show","reality_show",3
+26,180,2.0,1616371200,0,"Boring cooking show","cooking_show",2
+27,181,5.0,1616457600,1,"Incredible travel documentary","documentary",5
+27,182,4.0,1616544000,1,"Great fitness video","fitness",5
+27,183,3.5,1616630400,1,"Interesting tech review","tech_review",4
+28,184,4.0,1616716800,1,"Engaging mystery show","mystery",5
+28,185,3.0,1616803200,0,"Okay debate","debate",3
+28,186,1.5,1616889600,0,"Terrible prank video","prank",1
+29,187,4.5,1616976000,1,"Fantastic short film","short_film",5
+29,188,3.5,1617062400,1,"Good sports event","sports",4
+29,189,2.5,1617148800,0,"Average talk show","talk_show",3
+30,190,5.0,1617235200,1,"Amazing travel vlog","vlog",5
+30,191,4.0,1617321600,1,"Great documentary series","documentary",5
+30,192,3.5,1617408000,1,"Interesting biography","biography",4
+30,193,4.0,1617494400,1,"Informative tech review","tech_review",5
